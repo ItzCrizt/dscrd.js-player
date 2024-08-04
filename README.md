@@ -1,4 +1,4 @@
-# dscrd.js-player-beta
+# dscrd.js-player
 
 A simple and easy-to-use discord music package that uses the [@distube/ytdl-core](https://www.npmjs.com/package/@distube/ytdl-core), [@distube/ytsr](https://www.npmjs.com/package/@distube/ytsr) and [@distube/ytpl](https://www.npmjs.com/package/@distube/ytpl)
 
@@ -13,7 +13,7 @@ A simple and easy-to-use discord music package that uses the [@distube/ytdl-core
 
 # Getting Started
 
-Install dscrd.js-player-beta
+Install dscrd.js-player
 
 ```bash
 npm i dscrd.js-player-beta@latest
